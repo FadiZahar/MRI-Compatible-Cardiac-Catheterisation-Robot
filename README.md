@@ -16,8 +16,9 @@ This project was carried out under the supervision of [Dr Helge Wurdemann](https
 | Experiments | Hydraulic Motor Rotation | Catheter Translation |
 |-------|--------------|-----------|
 | Top View | ![MRI-CCCR - Hydraulic Motor Rotation - Top View](<assets/MRI-CCCR - Hydraulic Motor Rotation - Top View.png>) | ![MRI-CCCR - Catheter Translation - Top View](<assets/MRI-CCCR - Catheter Translation - Top View.png>) |
-| Experimental Setup | ![MRI-CCCR - Hydraulic Motor Rotation - Experimental Setup](<assets/MRI-CCCR - Picture 4.png>) | ![MRI-CCCR - Catheter Translation - Experimental Setup](<assets/MRI-CCCR - Picture 2.png>) |
-| Video | ![MRI-CCCR - Hydraulic Motor Rotation - Video](<assets/MRI-CCCR - Hydraulic Motor Rotation - Video.mov>) | ![MRI-CCCR - Catheter Translation - Video](<assets/MRI-CCCR - Catheter Translation - Video.mov>) |
+| Experimental Setup - Top View | ![MRI-CCCR - Hydraulic Motor Rotation - Top View Experiment](<assets/MRI-CCCR - Hydraulic Motor Rotation - Top View Experiment.png>) | ![MRI-CCCR - Catheter Translation - Top View Experiment](<assets/MRI-CCCR - Catheter Translation - Top View Experiment.png>) |
+| Experimental Setup - Standard View | ![MRI-CCCR - Hydraulic Motor Rotation - Experimental Setup](<assets/MRI-CCCR - Hydraulic Motor Rotation - Experimental Setup.png>) | ![MRI-CCCR - Catheter Translation - Experimental Setup](<assets/MRI-CCCR - Catheter Translation - Experimental Setup.png>) |
+| Video (Sped Up) | ![MRI-CCCR - Hydraulic Motor Rotation - Video_spedup](<assets/MRI-CCCR - Hydraulic Motor Rotation - Video_spedup.mp4>) | ![MRI-CCCR - Catheter Translation - Video_spedup](<assets/MRI-CCCR - Catheter Translation - Video_spedup.mp4>) |
 
 
 ## Get in Touch
