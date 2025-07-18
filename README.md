@@ -1,4 +1,4 @@
-# **Novel Hydraulic Actuation System for MRI-Compatible Cardiac Catheterisation Robots:** Design and Integrationasset
+# **Novel Hydraulic Actuation System for MRI-Compatible Cardiac Catheterisation Robots:** Design and Integration
 
 ![MRI-CCCR - Rendering 1](<assets/MRI-CCCR - Rendering 1.png>)
 
@@ -15,9 +15,9 @@ This project was carried out under the supervision of [Dr Helge Wurdemann](https
 
 | Experiments | Hydraulic Motor Rotation | Catheter Translation |
 |-------|--------------|-----------|
-| Picture 1 | ![MRI-CCCR - Hydraulic Motor Rotation - Picture 1](<assets/MRI-CCCR - Picture 3.png>) | ![MRI-CCCR - Catheter Translation - Picture 1](<assets/MRI-CCCR - Picture 1.png>) |
-| Picture 2 | ![MRI-CCCR - Hydraulic Motor Rotation - Picture 2](<assets/MRI-CCCR - Picture 4.png>) | ![MRI-CCCR - Catheter Translation - Picture 2](<assets/MRI-CCCR - Picture 2.png>) |
-| Video | ![MRI-CCCR - Hydraulic Motor Rotation - Video](<assets/MRI-CCCR - Video 1.png>) | ![MRI-CCCR - Catheter Translation - Video](<assets/MRI-CCCR - Video 2.png>) |
+| Top View | ![MRI-CCCR - Hydraulic Motor Rotation - Top View](<assets/MRI-CCCR - Hydraulic Motor Rotation - Top View.png>) | ![MRI-CCCR - Catheter Translation - Top View](<assets/MRI-CCCR - Catheter Translation - Top View.png>) |
+| Experimental Setup | ![MRI-CCCR - Hydraulic Motor Rotation - Experimental Setup](<assets/MRI-CCCR - Picture 4.png>) | ![MRI-CCCR - Catheter Translation - Experimental Setup](<assets/MRI-CCCR - Picture 2.png>) |
+| Video | ![MRI-CCCR - Hydraulic Motor Rotation - Video](<assets/MRI-CCCR - Hydraulic Motor Rotation - Video.mov>) | ![MRI-CCCR - Catheter Translation - Video](<assets/MRI-CCCR - Catheter Translation - Video.mov>) |
 
 
 ## Get in Touch
